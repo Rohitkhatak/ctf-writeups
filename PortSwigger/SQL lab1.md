@@ -1,6 +1,6 @@
 # SQL Injection Lab 1
 
- Lab ka naam: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+ Lab ka naam: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.       
  Difficulty: APPRENTICE
 
 ## Kya kiya
