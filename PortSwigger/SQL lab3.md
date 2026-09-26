@@ -15,5 +15,6 @@
 To solve the lab, display the database version string.
 
 ## Screenshot
-<img width="1879" height="1068" alt="Screenshot 2026-09-26 160224" src="https://github.com/user-attachments/assets/5fe29acf-39ee-4189-b123-a83ba6745095" />
+<img width="1919" height="1072" alt="Screenshot 2026-09-26 160259" src="https://github.com/user-attachments/assets/8d5fe670-1aa9-4676-8e0a-fa96aea1326b" />
+
 <img width="1879" height="1068" alt="Screenshot 2026-09-26 160224" src="https://github.com/user-attachments/assets/0f840119-854a-4ca5-867b-ca413e82eb97" />
