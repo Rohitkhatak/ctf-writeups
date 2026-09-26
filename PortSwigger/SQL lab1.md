@@ -4,9 +4,9 @@ Lab ka naam: SQL injection vulnerability in WHERE clause allowing retrieval of h
 Difficulty: APPRENTICE
 
 ## Kya kiya
-Use Burp Suite to intercept and modify the request that sets the product category filter.
-Modify the category parameter, giving it the value '+OR+1=1--
-Submit the request, and verify that the response now contains one or more unreleased products.
+1. Use Burp Suite to intercept and modify the request that sets the product category filter.
+2. Modify the category parameter, giving it the value '+OR+1=1--
+3. Submit the request, and verify that the response now contains one or more unreleased products.
 
 ## Result
 To solve the lab, perform a SQL injection attack that causes the application to display one or more unreleased products.
