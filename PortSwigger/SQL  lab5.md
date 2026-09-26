@@ -31,4 +31,9 @@ Find the password for the administrator user, and use it to log in.
 
 ## Screenshot
 
+<img width="1906" height="1062" alt="Screenshot 2026-09-26 173409" src="https://github.com/user-attachments/assets/da4f5968-d0a8-4ae8-897a-3b0425234ceb" />
+
+<img width="1238" height="431" alt="Screenshot 2026-09-26 173351" src="https://github.com/user-attachments/assets/a8c05264-2134-46b7-b1bc-2be79eb15d87" />
+
+<img width="1886" height="1064" alt="Screenshot 2026-09-26 173334" src="https://github.com/user-attachments/assets/39f57273-e64a-43f5-93cf-3d257c3222a6" />
 
