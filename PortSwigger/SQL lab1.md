@@ -1,7 +1,7 @@
 # SQL Injection Lab 1
 
-Lab ka naam: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
-Difficulty: APPRENTICE
+ Lab ka naam: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+ Difficulty: APPRENTICE
 
 ## Kya kiya
 1. Use Burp Suite to intercept and modify the request that sets the product category filter.
