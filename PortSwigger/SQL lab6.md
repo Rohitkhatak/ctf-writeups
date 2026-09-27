@@ -33,4 +33,5 @@ To solve the lab, log in as the administrator user.
 ## Screenshot
 <img width="1545" height="893" alt="Screenshot 2026-09-27 142656" src="https://github.com/user-attachments/assets/fedd7858-a7b2-4d90-81dd-53dd075b372c" />
 
-<img width="1545" height="893" alt="image" src="https://github.com/user-attachments/assets/a90fcb05-b2a1-42a0-828b-73dba09aca05" />
+<img width="1815" height="992" alt="Screenshot 2026-09-27 142642" src="https://github.com/user-attachments/assets/be75ba24-8ce8-4f00-b2d7-6a61da477e3d" />
+
