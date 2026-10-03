@@ -1,10 +1,10 @@
-# SQL Injection Lab 7
+# SQL Injection Lab 8
 
- Lab ka naam:
+ Lab ka naam: SQL injection UNION attack, finding a column containing text.
  Difficulty:PRACTITIONER
 
 # kya karna ha 
-The lab will provide a random value that you need to make appear within the query results. To solve the lab, perform a SQL injection UNION attack that returns an additional row containing the value provided. This technique helps you determine which columns are compatible with string data.
+This lab contains a SQL injection vulnerability in the product category filter. The results from the query are returned in the application's response, so you can use a UNION attack to retrieve data from other tables. To construct such an attack, you first need to determine the number of columns returned by the query. You can do this using a technique you learned in a previous lab. The next step is to identify a column that is compatible with string data.
 
 ## Kya kiya
 
@@ -18,5 +18,7 @@ The lab will provide a random value that you need to make appear within the quer
 4. If an error occurs, move on to the next null and try that instead.
 
 ## Screenshot
+
+<img width="1857" height="1011" alt="Screenshot 2026-10-03 132010" src="https://github.com/user-attachments/assets/a24da69d-a0f4-4280-933e-5a3c9a6f6211" />
 
 
