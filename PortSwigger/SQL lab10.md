@@ -19,7 +19,7 @@ This lab contains a SQL injection vulnerability in the product category filter. 
 4. Verify that the application's response contains usernames and passwords.
 
 
-UNION SQLi Flow
+#UNION SQLi Flow
 
 1. Find injection point   (' UNION SELECT NULL,NULL,NULL--)
 2. Find number of columns  ( three coloumns in the SELECT )
